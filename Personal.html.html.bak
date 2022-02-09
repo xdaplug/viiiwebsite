@@ -1,0 +1,89 @@
+<!Doctype htm1>
+<html lang ="en" >
+
+		<head>
+			<title>Personal - Barrington James</title>
+			<meta charset = "UTF-8/> 
+			<meta name = "Author" content = "Barrington James">
+			<meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+			<!--the pixel width of the viewport that you want the website to be rendered at -->
+			<!-- a 1:1 ratio between the device width and veiwport size -->
+		</head>		
+		
+		<body background ='../Assets/Image/67278.jpg' width ='100%' height='100%'>
+			<center><table border = '0' cellpadding = '20' width = '90%' style = 'background-color:lightyellow'>
+				
+				<!-- Hyperlinks Rack-->
+					<tr>
+						<td><a href = "index.html">HOME</a> >> Personal</td>
+					</tr>
+				
+				<!-- Hyperlinks RackEnd-->
+				<!-- Header -->
+				<tr>
+					<td colspan="3">
+						<h1>Personal</h1>
+					</td>
+				</tr>
+				
+				<tr>
+					<td colspan="3">
+					<p>
+						An energetic creative with the ablity to think creativily under strainious circumstances. I am a growing risk-taker who has a keen eye for detail and the ablity to deliver result. <br/>
+
+						I Like: 
+					
+							<ul>
+								<li>Travel</li> 
+								<li>Observe New Landscapes</li>  
+								<li>Create</li>  
+								<li>Draw</li>  
+								<li>Business Start-Ups </li>   
+							</ul>
+					
+						Dislikes:
+							<ul>
+								<li>Wasting my time</li> 
+								<li>Unengaging Conversation</li>   
+							</ul>
+					
+						Hobbies
+							<ul>
+								<li>Playing  Chess</li> 
+								<li>Swimminng</li>  
+								<li>Cooking</li>  
+								<li>Go Out</li>  
+								<li>Gardening</li>  
+							</ul>
+					</td>
+				</tr>
+				
+				<tr>
+					<td colspan="3">
+						<center><h2>Quote</h2></center>
+						<center><p>"Compare yourself to who you were yesterday, not to who someone else is today"</p></center>
+						<center><h4>- Jordan Peterson</h4></center>
+					</td>
+				</tr>
+				
+				<tr>
+					<td colspan="3">
+						<center><img src = '../Assets/Image/Rationalist.png' width = "100%" height = "100%"></img></center>
+						<center><p>The Summery present is valid of my personally in general. I do tend to be pragmatic, skeptical, self-contained, and focused on problem-solving <br/> 
+								I am a strategic leaders that prides myself on being ingenious, independent, and strong willed. I  seek knowledge, prize technology, <br/>
+								and dream of undestanding how the world works
+								.</p><center>
+					</td>
+				</tr>
+				
+		
+		
+			</table></center>
+		
+		
+		</body>
+		<footer>
+		<h5 style="align-text:right"> Copyright &copy; Barrington James, Febuary 7, 2022 </h5>
+		</footer>
+		
+</html>

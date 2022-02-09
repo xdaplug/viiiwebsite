@@ -1,0 +1,19 @@
+<!Doctype htm1>
+<html lang ="en" >
+
+		<head>
+			<title>Personal - Barrington James</title>
+			<meta charset = "UTF-8/> 
+			<link href= "./Assets/Image/SignatureWhite.png" rel = "shortcut icon"> 
+			<meta name = "Author" content = "Barrington James">
+			<meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+			<!--the pixel width of the viewport that you want the website to be rendered at -->
+			<!-- a 1:1 ratio between the device width and veiwport size -->
+		</head>		
+		
+		<body>
+		</body>
+		<footer>
+		</footer>
+		
+</html>

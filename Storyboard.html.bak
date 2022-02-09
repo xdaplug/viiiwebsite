@@ -1,0 +1,40 @@
+<!Doctype html>
+<html lang="en" >
+
+	<head>
+		<title>Storyboard - Barrington James</title>
+		<meta charset = "UTF-8/> 
+		<meta name = "Author" content = "Barrington James">
+		<meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+		<!--the pixel width of the viewport that you want the website to be rendered at -->
+		<!-- a 1:1 ratio between the device width and veiwport size -->
+	</head>
+	<body background ='../Assets/Image/67278.png' width ='100%' height='100%'>
+		<center><table border = '0' cellpadding = '20' width = '90%' style = 'background-color:lightyellow'>
+					<!-- Hyperlinks Rack-->
+					
+					<tr>
+						<td><a href = "index.html">HOME</a> >> Storyboard</td>
+					</tr>
+					
+					<tr>
+						<td> <h1>Storyboard</h1></td>
+					</tr>
+					<tr>
+						<td>
+							<img src ='../Storyboard.png'/>
+						</td>
+					</tr>
+	
+	
+		</table></center>
+		
+		</body>
+		<footer>
+		
+				<h5 style = "text-align:right"> Copyright &copy; Barrington James, Febuary 1, 2022 </h5>
+		
+		</footer>
+	
+	
+	</html>

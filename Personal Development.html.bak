@@ -1,0 +1,109 @@
+<!Doctype htm1>
+<html lang ="en" >
+
+		<head>
+			<title>PD - Barrington James</title>
+			<meta charset = "UTF-8/> 
+			<meta name = "Author" content = "Barrington James">
+			<meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+			<!--the pixel width of the viewport that you want the website to be rendered at -->
+			<!-- a 1:1 ratio between the device width and veiwport size -->
+		</head>		
+		
+		<body background ='../Assets/Image/67278.jpg' width ='100%' height='100%'>
+			 
+		<section>
+			<center><table border = '0' cellpadding = '20' width = '90%' style = 'background-color:lightyellow'>
+				<!-- Hyperlinks Rack-->
+					<tr>
+						<td><a href = "index.html">HOME</a> >> Development</td>
+					</tr>
+				<!-- Hyperlinks Rack-->
+				<!-- Header -->
+				<tr>
+					<td colspan = '4'>
+						<h1><font>Personality Development</font></h1>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<h3>Entrepreneurial</h3>
+						<p>I have strong entreprenurial skills as I am able to organize, manage and assume the risk of owning a business and also being able to monetize a great amount of these business ventures.</p>
+					</td>
+					<td>
+						<h3>Detail-oriented</h3>
+						
+						<p>I play a keen attention to detail, every bit counts as I believe a informed decision, is a strong one.</p>
+					</td>
+					<td>
+						<h3>Determined</h3>
+						<p>For every challenging battle faced, I believe getting up after every set back is a important key sto success. This is a continuous process and I have been on it for 3 years.</p>
+					</td>
+				</tr>
+				<!--Book Chapter Breakdown-->
+				<tr>
+					<td colspan ='3'>
+						<p> The four (4) Chapters Speak on:<br/>
+						<dl>
+							<strong><center><dt>Writing Down your Goals</dt></center></strong>
+							<br/>
+							<dd>Without goals your life has no direction
+							your goal should drive changes in you that will help you tio grow and change for you to 
+							acquire what you want. 
+							<br/>I have created a Life Plan that marks different milestones in my life and what I want 
+							to achieve.
+							<br/>
+							"you can't change your destination over night but you can change you your directory."
+							</dd>
+							<br/><br/><br/>
+							<strong><center><dt>Using your Time Properly</dt></center></strong>
+							<br/>
+							<dd>Since time is a limited range of existence one will have in the attainnment of ones goal. One must learn how to
+							manage their time and  use it wisely.  
+							Poor time management acquires when a persons normally wastes time on urgent things and neglect the time spent on important matters that contribute to there overall goal. 
+							<br/>
+							I manage my time in timeblocks, most of my time is alotted to developing and inproving my craft.
+							<br/>
+							" We must all suffer from one of the two pains of life, The pain of discipline/The pain of regret."
+							</dd>
+							<br/><br/><br/>
+							
+							<strong><center><dt>Practicing  Only Quality People</dt></center></strong>
+							
+							<br/>
+							<dd> Go where the expectations and the demands to perform are high .
+							Deteremine what the people around you have to offer, is it someone that you want to be ? if not, then these are poeple that you should let go of. It is important to determine how the people around you, affect you, where do they have you going?
+
+							Sucessful people will suround themselves with people that will challenge them and encourage them to become better
+							personal development will provide you with the skills to attract the right set of people.
+							<br/>
+							My social circle is extremely small at this moment as i am yet to interact with the quality people i'm looking for.
+							</dd>
+							
+							<br/>
+							
+							<br/><br/>
+							<strong><center><dt>Being a Life Long Learner</dt></center></strong>
+							<br/>
+							<dd> While a formal education will earn you a leaving , Self education will earn you a fortune.
+							If a man is heading down the wrong path he doesnt need to be motivated to to be educated. learning is the beginnning of wealth. You must read to expand your knowledge  and you can not become successful without it 
+							as we are opened up to new world and expanded perspectives.
+							<br/>
+							I could focus on learning skills that I am unaware of to build my library of skills.</dd>
+							
+							<br/>
+							
+						</dl>
+	
+						
+						
+						</p>
+					</td>
+				</tr>
+			</table></center>
+		</body>
+		
+		<footer>
+			<h5 style="align-text:right"> Copyright &copy; Barrington James, Febuary 7, 2022 </h5>
+		</footer>
+</html>
